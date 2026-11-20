@@ -1,8 +1,3 @@
-<!-- Header Wave Animasi -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agaphe%20Abel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Network%20Enthusiast%20|%20Terminal%20Enjoyer&descAlignY=60&descSize=16" width="100%" />
-</p>
-
 <!-- Animasi Teks Mengetik -->
 <p align="center">
   <a href="https://git.io/typing-svg">
