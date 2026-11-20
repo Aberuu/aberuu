@@ -17,8 +17,6 @@
 
 ### 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 Currently building **Web Applications** & managing **Campus Network Infrastructure**
 - 🌱 Exploring **C, Python**, and system administration
 - 💬 Ask me about **HTML/CSS/JS, VS Code, or Network Troubleshooting**
