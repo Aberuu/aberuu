@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aberuu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="aberuu" />
   <a href="https://aberuu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aberuu.github.io-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-aberuu.vercel.app-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
